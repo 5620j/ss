@@ -618,7 +618,6 @@ MonsterTGbot SuperGroup Commands:
 اسکرین شات گرفتن از یک سایت
 
 Channel:@MonsterTGbot
-
 ]],
   }
   serialize_to_file(config, './data/config.lua')
