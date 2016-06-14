@@ -452,7 +452,6 @@ will return group ban list
 ]],
 	help_text_super =[[
 MonsterTGbot SuperGroup Commands:
-
 💢!owner
 دریافت آیدی مدیر اصلی گروه
 
@@ -475,14 +474,8 @@ MonsterTGbot SuperGroup Commands:
 💢!info
 دریافت اطلاعات خود
 
-💢!save (متن) (موضوع)
-ذخیره یک متن
-
 💢!get (موضوع)
 دریافت متن ذخیره شده
-
-💢!id
-دریافت آیدی سوپرگروه یا یک فرد
 
 💢!setowner
 تنظیم کردن مدیر اصلی سوپرگروه
@@ -592,15 +585,6 @@ MonsterTGbot SuperGroup Commands:
 
 💢!msgrem (عددی زیر 100)
 حذف پیام های سوپرگروه به صورت عددی
-
-💢!file (متن) (نام فایل.فرمت فایل)
-دریافت یک نوشته به صورت فایل با فرمت دلخواه
-
-💢!wikifa (متن)
-جستجوی یک متن در ویکی پدیا 
-
-💢!calc 4-2
-انجام محاسبات ریاضی 
 
 💢!time (نام شهر)
 دریافت زمان یک شهر 
